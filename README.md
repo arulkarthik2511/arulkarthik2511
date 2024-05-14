@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+
+<div align="center">
+  <img  src="https://github.com/codemadhan/codemadhan/blob/main/resources/grid-snake.svg"
+       alt="snake" /></a>
+</div>
+
 <!--
 **arulkarthik2511/arulkarthik2511** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
